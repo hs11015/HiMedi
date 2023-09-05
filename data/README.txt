@@ -1,2 +1,2 @@
 medicine
-label
+mark
