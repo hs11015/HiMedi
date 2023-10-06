@@ -1,4 +1,4 @@
-# PRIMER_Ensemble
+# HiMedi 👋🏻💊 
 ### 약품 이미지 인식 및 투약 관리 어플리케이션 'HiMedi'
 팀장 : 노서준
 
