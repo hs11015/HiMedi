@@ -14,17 +14,20 @@ AI 개발 : 노서준, 김현서
 
 1. tensorflow lite
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb3e176f-f046-4e82-b01e-bd7638d3786c/49d87ddf-41a9-4e51-9f09-245061e39f59/Untitled.png)
+    ![image](https://github.com/hs11015/HiMedi/assets/79328858/2dbec5e1-92b8-4d53-8cbd-1e0a47a1b931)
+
     
 
 2. scikit-learn
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb3e176f-f046-4e82-b01e-bd7638d3786c/87d3db01-1d14-4363-a4fa-79c258f3378f/Untitled.png)
+    ![image](https://github.com/hs11015/HiMedi/assets/79328858/de845d2a-14ef-4a2e-87d4-24b7c2797431)
+
     
 
 3. 의약품 안전나라 공공데이터
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb3e176f-f046-4e82-b01e-bd7638d3786c/fb4c7ef3-1036-430f-8269-bcfaa17ad160/Untitled.png)
+    ![image](https://github.com/hs11015/HiMedi/assets/79328858/027fb85b-0c07-4437-b28c-5a78cb4a0a72)
+
     
     - DUR 유형별 품목 현황
     - DUR 유형별 성분 현황
